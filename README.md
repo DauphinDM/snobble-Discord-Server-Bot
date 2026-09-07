@@ -1,4 +1,4 @@
-# Deezee Server Bot
+# snobble's Discord Server Bot
 
 One bot replacing **Dyno, Carl-bot, Lawliet, Sapphire and Double Counter** for a
 single Discord server.
